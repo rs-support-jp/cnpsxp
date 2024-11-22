@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Deeplink/Universal link Testing</title>
+    <link href="style.css" rel="stylesheet" type="text/css" media="all">
+  </head>
+  <body>
+    <h1>Deeplink / Universal link Testing</h1>
+
+<h1>
+<ul>
+    <li>Facebook Web 入稿URL: 
+      <a href=https://www.minna-no-ginko.com/point9-0/?p0=1cbpl679&p1={{campaign.name}}&p2={{campaign.id}}&p3={{adset.name}}&p4={{adset.id}}&p5={{ad.name}}&p6={{ad.id}}&fbclid=12345>https://www.minna-no-ginko.com/point9-0/?p0=1cbpl679&p1={{campaign.name}}&p2={{campaign.id}}&p3={{adset.name}}&p4={{adset.id}}&p5={{ad.name}}&p6={{ad.id}}&fbclid=12345</a> 
+      </li>
+</ul>
+    </h1>
+  </body>
+</html>
